@@ -1,0 +1,8 @@
+# al1{
+   overflow: hidden;
+  white-space: nowrap;
+}
+
+.child{
+  display:inline-block;
+}
